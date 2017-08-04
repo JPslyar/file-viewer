@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PrincipalInfos>
+  <PrincipalInfo>
+     <Name>admin</Name>
+     <PassWord>123456</PassWord>
+  </PrincipalInfo>
+  <PrincipalInfo>
+     <Name>admin1</Name>
+     <PassWord>123456</PassWord>
+  </PrincipalInfo>
+</PrincipalInfos>

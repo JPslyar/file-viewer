@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Companys>
+  <Company code="A019" name="中国电信股份有限公司广东分公司">
+		<ProfitCenter code="A019" name="中国电信股份有限公司广东分公司" />
+		<ProfitCenter code="A4400" name="中国电信股份有限公司广东分公司本部" />
+		<ProfitCenter code="A4401" name="中国电信股份有限公司广州分公司" />
+		<ProfitCenter code="A4402" name="中国电信股份有限公司深圳分公司" />
+		<ProfitCenter code="A4403" name="中国电信股份有限公司珠海分公司" />
+		<ProfitCenter code="A4404" name="中国电信股份有限公司汕头分公司" />
+		<ProfitCenter code="A4405" name="中国电信股份有限公司韶关分公司" />
+		<ProfitCenter code="A4406" name="中国电信股份有限公司河源分公司" />
+		<ProfitCenter code="A4407" name="中国电信股份有限公司梅州分公司" />
+		<ProfitCenter code="A4408" name="中国电信股份有限公司惠州分公司" />
+		<ProfitCenter code="A4409" name="中国电信股份有限公司汕尾分公司" />
+		<ProfitCenter code="A4410" name="中国电信股份有限公司东莞分公司" />
+		<ProfitCenter code="A4411" name="中国电信股份有限公司中山分公司" />
+		<ProfitCenter code="A4412" name="中国电信股份有限公司江门分公司" />
+		<ProfitCenter code="A4413" name="中国电信股份有限公司佛山分公司" />
+		<ProfitCenter code="A4414" name="中国电信股份有限公司阳江分公司" />
+		<ProfitCenter code="A4415" name="中国电信股份有限公司湛江分公司" />
+		<ProfitCenter code="A4416" name="中国电信股份有限公司茂名分公司" />
+		<ProfitCenter code="A4417" name="中国电信股份有限公司肇庆分公司" />
+		<ProfitCenter code="A4418" name="中国电信股份有限公司清远分公司" />
+		<ProfitCenter code="A4419" name="中国电信股份有限公司潮州分公司" />
+		<ProfitCenter code="A4420" name="中国电信股份有限公司揭阳分公司" />
+		<ProfitCenter code="A4421" name="中国电信股份有限公司云浮分公司" />
+		<ProfitCenter code="A4481" name="中国电信股份有限公司广东研究院" />
+		<ProfitCenter code="A4482" name="中国电信股份有限公司广东传送网络运营中心" />
+		<ProfitCenter code="A4483" name="中国电信股份有限公司广东电信移动互联网运营中心" />
+		<ProfitCenter code="A4484" name="中国电信股份有限公司广东无线网络运营中心" />
+		<ProfitCenter code="A4485" name="中国电信股份有限公司广东分公司驻北京联络处" />
+		<ProfitCenter code="A4493" name="中国电信股份有限公司广东号百信息服务分公司" />
+  </Company>
+  <Company code="C019" name="中国电信集团公司广东网络资产分公司">
+        <ProfitCenter code="C019" name="中国电信集团公司广东网络资产分公司" />
+		<ProfitCenter code="C4400" name="广东网络资产分公司省本部" />
+		<ProfitCenter code="C4401" name="广东网络资产分公司广州分公司" />
+		<ProfitCenter code="C4402" name="广东网络资产分公司深圳分公司" />
+		<ProfitCenter code="C4403" name="广东网络资产分公司珠海分公司" />
+		<ProfitCenter code="C4404" name="广东网络资产分公司汕头分公司" />
+		<ProfitCenter code="C4405" name="广东网络资产分公司韶关分公司" />
+		<ProfitCenter code="C4406" name="广东网络资产分公司河源分公司" />
+		<ProfitCenter code="C4407" name="广东网络资产分公司梅州分公司" />
+		<ProfitCenter code="C4408" name="广东网络资产分公司惠州分公司" />
+		<ProfitCenter code="C4409" name="广东网络资产分公司汕尾分公司" />
+		<ProfitCenter code="C4410" name="广东网络资产分公司东莞分公司" />
+		<ProfitCenter code="C4411" name="广东网络资产分公司中山分公司" />
+		<ProfitCenter code="C4412" name="广东网络资产分公司江门分公司" />
+		<ProfitCenter code="C4413" name="广东网络资产分公司佛山分公司" />
+		<ProfitCenter code="C4414" name="广东网络资产分公司阳江分公司" />
+		<ProfitCenter code="C4415" name="广东网络资产分公司湛江分公司" />
+		<ProfitCenter code="C4416" name="广东网络资产分公司茂名分公司" />
+		<ProfitCenter code="C4417" name="广东网络资产分公司肇庆分公司" />
+		<ProfitCenter code="C4418" name="广东网络资产分公司清远分公司" />
+		<ProfitCenter code="C4419" name="广东网络资产分公司潮州分公司" />
+		<ProfitCenter code="C4420" name="广东网络资产分公司揭阳分公司" />
+		<ProfitCenter code="C4421" name="广东网络资产分公司云浮分公司" />
+		<ProfitCenter code="C4481" name="广东网络资产分公司研究院" />
+		<ProfitCenter code="C4482" name="广东网络资产分公司传送网络运营中心" />
+		<ProfitCenter code="C4483" name="广东网络资产分公司移动互联网运营中心" />
+		<ProfitCenter code="C4484" name="广东网络资产分公司无线网络运营中心" />
+  </Company>
+  <Company code="B019" name="中国电信集团广东省电信公司">
+        <ProfitCenter code="B019" name="中国电信集团广东省电信公司" />
+		<ProfitCenter code="B4400" name="中国电信集团广东省电信公司本部" />
+		<ProfitCenter code="B4401" name="广东省电信公司广州市分公司" />
+		<ProfitCenter code="B4402" name="广东省电信公司深圳市分公司" />
+		<ProfitCenter code="B4403" name="广东省电信公司珠海市分公司" />
+		<ProfitCenter code="B4404" name="广东省电信公司汕头市分公司" />
+		<ProfitCenter code="B4405" name="广东省电信公司韶关市分公司" />
+		<ProfitCenter code="B4406" name="广东省电信公司河源市分公司" />
+		<ProfitCenter code="B4407" name="广东省电信公司梅州市分公司" />
+		<ProfitCenter code="B4408" name="广东省电信公司惠州市分公司" />
+		<ProfitCenter code="B4409" name="广东省电信公司汕尾市分公司" />
+		<ProfitCenter code="B4410" name="广东省电信公司东莞市分公司" />
+		<ProfitCenter code="B4411" name="广东省电信公司中山市分公司" />
+		<ProfitCenter code="B4412" name="广东省电信公司江门市分公司" />
+		<ProfitCenter code="B4413" name="广东省电信公司佛山市分公司" />
+		<ProfitCenter code="B4414" name="广东省电信公司阳江市分公司" />
+		<ProfitCenter code="B4415" name="广东省电信公司湛江市分公司" />
+		<ProfitCenter code="B4416" name="广东省电信公司茂名市分公司" />
+		<ProfitCenter code="B4417" name="广东省电信公司肇庆市分公司" />
+		<ProfitCenter code="B4418" name="广东省电信公司清远市分公司" />
+		<ProfitCenter code="B4419" name="广东省电信公司潮州市分公司" />
+		<ProfitCenter code="B4420" name="广东省电信公司揭阳市分公司" />
+		<ProfitCenter code="B4421" name="广东省电信公司云浮市分公司" />
+		<ProfitCenter code="B4481" name="广东省电信公司科学技术研究院" />
+		<ProfitCenter code="B4482" name="广东省电信公司长途电信线路局" />
+		<ProfitCenter code="B4483" name="广东省电信公司移动互联网运营中心" />
+		<ProfitCenter code="B4484" name="广东省电信公司微波通信局" />
+		<ProfitCenter code="B4485" name="广东省电信公司驻北京联络处" />
+  </Company>
+  <Company code="B101" name="广东省电信公司邮电大厦">
+     <ProfitCenter code="B101" name="广东省电信公司邮电大厦" />
+     <ProfitCenter code="K4400" name="广东省电信公司邮电大厦本部" />
+  </Company>
+  <Company code="B102" name="北京信捷苑物业管理有限公司">
+  </Company>
+  <Company code="A101" name="广东亿迅科技有限公司">
+  <ProfitCenter code="A101" name="广东亿迅科技有限公司" />
+		<ProfitCenter code="H4400" name="广东亿迅科技有限公司本部" />
+		<ProfitCenter code="H4401" name="广东亿迅科技有限公司广州分公司" />
+		<ProfitCenter code="H4402" name="广东亿迅科技有限公司深圳分公司" />
+		<ProfitCenter code="H4403" name="广东亿迅科技有限公司珠海分部" />
+  </Company>
+  <Company code="A102" name="北京南粤苑宾馆有限公司">
+  </Company>
+  <Company code="A103" name="天翼爱音乐文化科技有限公司">
+     <ProfitCenter code="A103" name="天翼爱音乐文化科技有限公司" />
+     <ProfitCenter code="J4400" name="天翼爱音乐文化科技有限公司本部" />
+  </Company>
+</Companys>

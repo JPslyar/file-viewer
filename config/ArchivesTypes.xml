@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArchivesTypes>
+<ArchivesType type="会计凭证类">
+</ArchivesType>
+<ArchivesType type="账簿类">
+  <Archives>总分类账</Archives>
+  <Archives>明细账</Archives>
+  <Archives>固定资产卡片</Archives>
+</ArchivesType>
+<ArchivesType type="财务报告类">
+</ArchivesType>
+<ArchivesType type="其他类">
+</ArchivesType>
+</ArchivesTypes>
